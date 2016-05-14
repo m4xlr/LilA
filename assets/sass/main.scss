@@ -1462,7 +1462,7 @@
 
 		&.alt {
 			background: transparent;
-
+            
 			h1 {
 				@include vendor('pointer-events', 'none');
 				opacity: 0;
